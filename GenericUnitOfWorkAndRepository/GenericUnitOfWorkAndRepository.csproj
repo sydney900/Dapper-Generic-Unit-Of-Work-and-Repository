@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dapper" Version="1.50.5" />
+    <PackageReference Include="dapper.contrib" Version="1.50.5" />
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="2.1.0" />
+    <PackageReference Include="system.data.common" Version="4.3.0" />
+    <PackageReference Include="System.Data.SQLite.Core" Version="1.0.108.0" />
+  </ItemGroup>
+
+</Project>

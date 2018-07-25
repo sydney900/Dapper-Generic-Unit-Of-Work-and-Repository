@@ -1,0 +1,2 @@
+set VSTEST_HOST_DEBUG=1
+dotnet test GenericUnitOfWorkAndRepository.Test.csproj
